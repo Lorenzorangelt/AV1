@@ -1,0 +1,15 @@
+{
+    "name": "panda-commerce-bootstrap-main",
+    "version": "1.0.0",
+    "description": "E-Commerce com bootrap usando a tríade: html-css-js",
+    "main": "Formulario.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git"
+    },
+    "author": "Lorenzo",
+    "license": "ISC",
+    "keywords": []
+  }
